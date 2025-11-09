@@ -26,7 +26,7 @@ pip install -r requirements.txt
 ---
 
 ## 项目结构
-
+```bash
 project/
 │
 ├── src/
@@ -40,7 +40,7 @@ project/
 │
 └── scripts/
     └── run.sh            # 一键运行脚本
-
+```
 ---
 
 # 训练模型 
