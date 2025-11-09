@@ -50,5 +50,5 @@ python train.py
 ---
 # 翻译示例（训练完成后可手动执行） 
 ```bash
-python ../src/translate.py \ # --model ../results/best_transformer.pt \ # --sentence "I love you.
+python ../src/translate.py \ # --model ../results/best_transformer.pt \ # --sentence "I love you."
 ```
